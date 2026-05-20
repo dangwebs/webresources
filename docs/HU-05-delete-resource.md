@@ -1,5 +1,7 @@
 # HU-05: Delete personal resource [done]
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** to be able to delete a resource I created,
 **so that** I can keep my personal collection clean and relevant.
