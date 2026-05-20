@@ -1,5 +1,7 @@
 # HU-09 — Dedicated YouTube Videos Section
 
+**status:** IMPLEMENTED
+
 ## Business Context
 
 The bookmark catalogue includes a growing number of resources with YouTube URLs:
