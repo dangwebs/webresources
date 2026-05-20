@@ -1,5 +1,7 @@
 # HU-06: YouTube video resource support
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** that when a resource (community or personal) has a YouTube URL, it displays in a video card format with a thumbnail,
 **so that** I can visually identify videos and play them directly within the application.
