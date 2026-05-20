@@ -1,5 +1,7 @@
 # HU-02: "Your Resources" section for user links [done]
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** a button in the sidebar called "Tus Recursos" (or "Tus Enlaces"),
 **so that** I can view only the resources I have created and saved locally, separate from community resources.

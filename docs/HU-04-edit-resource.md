@@ -1,5 +1,7 @@
 # HU-04: Edit personal resource [done]
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** to be able to edit the data of a resource I created,
 **so that** I can correct errors or update information on my links.

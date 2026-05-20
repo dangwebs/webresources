@@ -1,5 +1,7 @@
 # HU-07: Localization (i18n) - Spanish and English support [done]
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** the application to support both Spanish and English languages with the ability to switch between them,
 **so that** I can use the application in my preferred language.
