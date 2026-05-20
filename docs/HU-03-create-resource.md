@@ -1,5 +1,7 @@
 # HU-03: Create personal resource (CRUD — Create) [done]
 
+**status:** IMPLEMENTED
+
 **As** a user,
 **I want** to be able to create a new resource by filling out a form in a modal,
 **so that** I can add my own links to my personal collection without needing to edit code.
