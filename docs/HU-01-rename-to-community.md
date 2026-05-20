@@ -1,5 +1,7 @@
 # HU-01: Rename "All" to "Community" [done]
 
+**status:** IMPLEMENTED
+
 **As** an application user,
 **I want** the navigation button "Todos" (which shows resources from `resources.json`) to be renamed to "Comunidad" (or another representative name),
 **so that** I can clearly differentiate between shared catalog resources and my personal resources.
