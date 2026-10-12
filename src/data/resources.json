@@ -196,28 +196,6 @@
         "createdAt": "2026-03-16T00:00:00.000000Z"
     },
     {
-        "id": "93688b9c-c2bd-480e-a2cf-e6468d6676d5",
-        "title": "BGrem",
-        "url": "https://bgrem.ai/es/",
-        "description": "",
-        "category": "AI",
-        "tags": [
-            "ai"
-        ],
-        "createdAt": "2026-03-17T00:56:18.000000Z"
-    },
-    {
-        "id": "8258f47a-195f-4b31-8d39-37e5ec8ad2b0",
-        "title": "Blobr",
-        "url": "https://www.blobr.io/",
-        "description": "",
-        "category": "AI",
-        "tags": [
-            "ai"
-        ],
-        "createdAt": "2026-03-17T00:56:18.000000Z"
-    },
-    {
         "id": "f279db8b-173b-43f6-b5c3-4a0cce6d55a6",
         "title": "ChatGPT",
         "url": "https://chat.openai.com/",
@@ -4567,17 +4545,6 @@
         "createdAt": "2026-03-17T01:06:13.000000Z"
     },
     {
-        "id": "f6096a85-f54b-42e6-b91a-3025e276e015",
-        "title": "Hilton",
-        "url": "https://jobs.hilton.com/us/en",
-        "description": "",
-        "category": "JOBS",
-        "tags": [
-            "jobs"
-        ],
-        "createdAt": "2026-03-17T01:06:13.000000Z"
-    },
-    {
         "id": "34adc9d5-0d94-4727-a36d-909ebc5c7bcd",
         "title": "Hire tech ladies",
         "url": "https://www.hiretechladies.com/",
@@ -5808,19 +5775,6 @@
         "createdAt": "2026-03-16T00:00:00.000000Z"
     },
     {
-        "id": "348234bb-3a4b-475e-b11f-2ae93e615230",
-        "description": "Fast and friendly serialization with advanced validation",
-        "tags": [
-            "python",
-            "serialization",
-            "validation"
-        ],
-        "category": "PROGRAMMING",
-        "title": "msgspec",
-        "url": "https://jcristharif.com/msgspec/",
-        "createdAt": "2026-03-16T00:00:00.000000Z"
-    },
-    {
         "id": "b8a22bf5-a00b-45d9-8443-48b210bec3cb",
         "description": "Software architecture is key in responding to dynamic market pressures.",
         "tags": [
@@ -6041,17 +5995,6 @@
         "id": "73f5ee02-d865-44ea-99de-3078ecbf7c7e",
         "title": "React Quill",
         "url": "https://www.npmjs.com/package/react-quill",
-        "description": "",
-        "category": "PROGRAMMING",
-        "tags": [
-            "react"
-        ],
-        "createdAt": "2026-03-17T01:10:07.000000Z"
-    },
-    {
-        "id": "43a145ae-2240-4942-a492-a03f6c3eba7d",
-        "title": "React Router",
-        "url": "https://reactrouter.com/en/main",
         "description": "",
         "category": "PROGRAMMING",
         "tags": [
@@ -6287,20 +6230,6 @@
             "react"
         ],
         "createdAt": "2026-03-17T01:10:07.000000Z"
-    },
-    {
-        "id": "26ebac0b-64c1-4525-8a0e-7315d15d4172",
-        "title": "Topcoder",
-        "url": "https://www.topcoder.com/",
-        "description": "We treat our Topcoder talent the way you'd want us to, with respect, transparency, and trust. Ya know, like humans should.",
-        "category": "PROGRAMMING",
-        "tags": [
-            "challenges",
-            "programming",
-            "resources",
-            "jobs"
-        ],
-        "createdAt": "2022-12-03T03:33:20.265Z"
     },
     {
         "id": "180b4a8b-ff0e-4bae-b1da-117d5a306122",
